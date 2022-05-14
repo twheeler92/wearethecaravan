@@ -1,0 +1,216 @@
+.body {
+    max-width: 1440px;
+    
+}
+
+/* Nav section */
+.nav-bar {
+    display: flex;
+    justify-content: space-between;
+    height: 150px;
+    background-color: #252525;
+    color: #F9F9F9;
+    font-size: 36px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.logo{
+    display: flex;
+    margin-top: 10px;
+}
+
+.link-div {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav-link {
+    margin-top: 50px;
+    margin-right: 100px;
+    text-decoration: none;
+}
+
+/* Hero section */
+#hero{
+    height: 1000px;
+    font-family: 'Poppins', sans-serif;
+    color: #F9F9F9;
+    background-image: url('/Users/t/Desktop/the caravan/assets/images/hero.png');
+    margin: 0px!important;
+}
+
+#herop{
+    font-size: 55px;
+}
+
+#hero-header{
+    font-size: 86px;
+}
+
+#testbtn{
+    font-family: 'Poppins', sans-serif;
+    color: #F9F9F9;
+    background-color: #72ADBB;
+}
+
+/* Programs */
+.section-header{
+    height: 150px;
+    font-family: 'Poppins', sans-serif;
+    color: #F9F9F9;
+    font-size: 60px;
+    background-color: #5E40A9;
+    padding-left: 100px;
+    padding-top: 25px;
+}
+
+#program-container{
+    display: flex;
+   justify-content: space-evenly;
+    height: 700px;
+    background-image: url('/Users/t/Desktop/the caravan/assets/images/pattern-background.png');
+}
+
+.program-box{
+    margin-top: 100px;
+    height: 500px;
+    width: 270px;
+    font-family: 'Poppins', sans-serif;
+    color: #F9F9F9;
+    text-align: center;
+    background-color: #252525;
+
+}
+.program-title{
+    margin-top: 120px;
+}
+
+.program-icon{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.program-p{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+/* Featured news */
+.news-container{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.news-box{
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+
+}
+
+.news-content{
+    width: 500px;
+    flex-wrap: wrap;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Trending */
+.tester4{
+    display: flex;
+    justify-content: center;
+}
+
+.trend-container{
+    display: flex;
+    justify-content: center;
+    width: 1000px;
+    height: 400px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.trend-box{
+    font-family: 'Poppins', sans-serif;
+    color: #F9F9F9;
+    background-color: #252525;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}
+
+.trend-header{
+    font-size: 35px;
+    font-style: bold;
+    margin-top: 80px;
+}
+
+/* Reviews */
+.review-container{
+    display: flex;
+    justify-content: center;
+    background-image: url('/Users/t/Desktop/the caravan/assets/images/pattern-background.png');
+}
+
+.review-box{
+    background-color: #F9F9F9;
+    color: #252525;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 17px;
+    padding: 15px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width: 1000px;
+}
+
+.review-content{
+    font-size: 30px;
+}
+
+/* Footer */
+.footer-container{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Poppins', sans-serif;
+    background-color: #252525;
+
+
+}
+
+.color{
+    color: #F9F9F9;
+}
+
+
+.connect{
+    text-align: center;
+}
+
+.footer-header{
+    font-size: 25px;
+    font-style: bold;
+    color: #72ADBB;
+}
+
+.newsletter{
+    display: flex;
+}
+
+.subscribe{
+    text-align: center;
+}
+
+.legal{
+    text-align: center;
+    color: #F9F9F9;
+    background-color: #252525;
+}
