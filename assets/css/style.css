@@ -35,7 +35,7 @@
     height: 1000px;
     font-family: 'Poppins', sans-serif;
     color: #F9F9F9;
-    background-image: url('/Users/t/Desktop/the caravan/assets/images/hero.png');
+    /*background-image: url('assets/images/hero.png');*/
     margin: 0px!important;
 }
 
@@ -66,9 +66,9 @@
 
 #program-container{
     display: flex;
-   justify-content: space-evenly;
+    justify-content: space-evenly;
     height: 700px;
-    background-image: url('/Users/t/Desktop/the caravan/assets/images/pattern-background.png');
+    /*background-image: url('/Users/t/Desktop/the caravan/assets/images/pattern-background.png');*/
 }
 
 .program-box{
@@ -158,7 +158,7 @@
 .review-container{
     display: flex;
     justify-content: center;
-    background-image: url('/Users/t/Desktop/the caravan/assets/images/pattern-background.png');
+    /*background-image: url('/Users/t/Desktop/the caravan/assets/images/pattern-background.png');*/
 }
 
 .review-box{
